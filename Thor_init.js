@@ -22,7 +22,7 @@ const texts = [
             'ELTE Lágymányosi Campus Északi Tömb',
             '1117 Bp., Pázmány Péter sétány 1/A'
         ]
-    },
+    }/*,
     {
         dynamic: true,
         paramID: 'param1',
@@ -30,7 +30,7 @@ const texts = [
         rows: [
             '$param1'
         ]
-    }
+    }*/
 ]
 
 ////////////////////////////////////////////
